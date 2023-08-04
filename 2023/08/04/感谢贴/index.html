@@ -427,33 +427,30 @@
 
 
 
-  <div id="giteement-ctn"></div>
+
   
-    <link rel="stylesheet" href="/lib/default.css">
-    <script src="/lib/giteement.browser.js"></script>
+  <div id="gitment-ctn"></div>
+  
+    <!-- 中文 -->
+    <link rel="stylesheet" href="/lib/gitment.css">
+    <script src="/lib/gitment.js"></script>
   
   <script>
-  <!-- id: "感谢贴" -->
-  var giteement = new Giteement({
-    id: '20230804154514',
-    owner: 'fosss',
-    repo: 'yilia-plus-comments',
-    backcall_uri: 'https://fosss666.github.io/',
-    oauth_uri: 'https://cors-anywhere.herokuapp.com/https://gitee.com/oauth/token',
-    oauth: {
-      client_id: '0a4391744f50e27c0fa60a08b50d89f4eef0b4d2012fb476f89f503b99c6ddac',
-      client_secret: '39f60c06d64bd7f264423fc2cd82ee518f90c539336beb0dd1852c9d2fb3eaaf'
-    },
-  })
-  giteement.render('giteement-ctn')
+    <!-- id: "感谢贴" -->
+    var gitment = new Gitment({
+      id: "20230804154514",
+      owner: 'true',
+      repo: 'blogcomment',
+      oauth: {
+        client_id: '1846d2b44c0f3e506a03',
+        client_secret: '2446b05c84e334c247669714d1e2cd9aac3efaaf',
+      },
+    })
+    gitment.render('gitment-ctn')
   </script>
 
 
-
-
-
-
-
+  
 
 
 
