@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>合照</title>
+      <link href="/2023/08/10/%E5%90%88%E7%85%A7/"/>
+      <url>/2023/08/10/%E5%90%88%E7%85%A7/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，这个密码看着不太对，请再试试。" data-whm="抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。">  <script id="hbeData" type="hbeData" data-hmacdigest="709b4ea50f3aac7082d4ccca8122d23f66c4c2e192ca8cbd78d2216893878b96">33cd58eaec567effd7d7b5c92abe4602f91d050f9ffee02faafce03f48590c9fb048a4485c779e7717d04733d1480aa1d8918a0f5a920570c87b3addb3d5506faaaff5bd4dff43bbd7e070a06826a2df9ef1273a85d62522b061c810659d0fbf7e68d5e15589770e8a3debcc60ea96a0b5fdaa0c78026dd63a1681edc5e969b2486340a355345d29de02699ba0812c0eae7a53be93360a93cbc477befdaa26ff07bf2fe61a98a128b7aa0b9a42ca115fe85fd715512ed1ce8fd5bc3dc49d514d4427442868825d04bcf787564a8d89d915b2e9a1281ea9bf4905da7bcff959293a0a5d137d27819bf80627a57f5c96d61e6c8de32307d052f7ade75be9743325bac010438d5d7219bb4778e137d9a517f5881b5ba6a9ac34c557271272089cad9b50a72fa99ff2707ffff57a55121fc63ee16d9a715419803cf4e9c16b72cb4cb2d2d713847cd18b46dfde90a5e0acf7d9bbbb5ebd8a4a09d5ef1c07dbb7d7e93ddc46a032dede6cd3a901fd916893ef2b3905d1c800775e9c8578a37a6cee38dadbbd264f7a9e42086aa0decc97c49d4ba58006b8af2f39daca3a74b959a3bb174fa8e6e2f5855f9527d6e9bb64f7ef9870bba28b9597413146259973733632f3cca437b6ccf6cca6e778f6af9814100d2b6c3f64a4fc5db633f7f6570ec003f3aa7adac1332f85f23350a00bf90ccb</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好，这里需要密码。</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 我的平凡生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 日常 </tag>
+            
+            <tag> 记录 </tag>
+            
+            <tag> 博主 </tag>
+            
+            <tag> 加密文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>markdown语法详解</title>
       <link href="/2023/08/09/markdown%E8%AF%AD%E6%B3%95%E8%AF%A6%E8%A7%A3/"/>
       <url>/2023/08/09/markdown%E8%AF%AD%E6%B3%95%E8%AF%A6%E8%A7%A3/</url>
@@ -49,11 +82,11 @@
       
         <tags>
             
+            <tag> redis </tag>
+            
             <tag> 教程 </tag>
             
             <tag> 笔记 </tag>
-            
-            <tag> redis </tag>
             
             <tag> 缓存三大问题 </tag>
             
@@ -80,13 +113,13 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
-            <tag> 笔记 </tag>
-            
             <tag> redis </tag>
             
             <tag> 数据结构 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 笔记 </tag>
             
         </tags>
       
@@ -287,11 +320,11 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 教程 </tag>
             
             <tag> 笔记 </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
