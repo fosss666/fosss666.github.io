@@ -49,11 +49,11 @@
       
         <tags>
             
-            <tag> redis </tag>
-            
             <tag> 教程 </tag>
             
             <tag> 笔记 </tag>
+            
+            <tag> redis </tag>
             
             <tag> 缓存三大问题 </tag>
             
@@ -80,13 +80,13 @@
       
         <tags>
             
-            <tag> redis </tag>
-            
-            <tag> 数据结构 </tag>
-            
             <tag> 教程 </tag>
             
             <tag> 笔记 </tag>
+            
+            <tag> redis </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -287,11 +287,11 @@
       
         <tags>
             
+            <tag> hexo </tag>
+            
             <tag> 教程 </tag>
             
             <tag> 笔记 </tag>
-            
-            <tag> hexo </tag>
             
         </tags>
       
